@@ -9,4 +9,4 @@ New Project from this one
 
 Use the next code to clone only the las version of the repo without remote tracking.
 
-    git clone --bare --depth 1 -b master git@github.com:rcrmn/unicorn-wireframe.git NewProjectName
+    git clone --depth 1 -b master git@github.com:rcrmn/unicorn-wireframe.git NewProjectName
