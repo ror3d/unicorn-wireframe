@@ -19,6 +19,7 @@ And then re-init git, so you end up with a clean repo:
 
     $ cd NewProjectName
     $ rm -rf .git
+    $ git init
 
 Finally just:
 
